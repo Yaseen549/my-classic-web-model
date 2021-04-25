@@ -1,0 +1,45 @@
+.que-card {
+    background-color: black;
+    color: white;
+    filter: drop-shadow(-5px 8px 2px #A3A3A3);
+    /* box-shadow: 20px 20px 2px #a3a3a3; */
+}
+.right{
+  float: right;
+}
+.padding{
+  padding: 20px;
+}
+
+.above {
+  border-radius: 20px;
+  padding: 8px;
+  position: absolute;
+  width: 200px;
+  background-color: white;
+  color: black;
+  margin-left: -150px;
+}
+
+.pos{
+  padding: 20px;
+  border-top: 50px;
+  margin-top: 250px;
+  border-radius: 3px;
+  width: 250px;
+  height: 250px;
+  margin-left: 250px;
+
+}
+
+.above-card {
+  position: absolute;
+  margin-top: -75px;
+  margin-left: 50px;
+  padding: 20px;
+  background-color: purple;
+  color: white;
+  border-radius: 3px;
+  width: 250px;
+  height: 250px;
+}
